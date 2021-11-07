@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Malith Kuruppu
-- 👀 I’m interested in developing beautifully curated apps using FLUTTER and REACT
-- Have experience in developing backend using NodeJS/ExpressJS
-- Worked with databases suc as MonogoDB and postgresSQL
+- 👀 I’m interested in developing beautifully curated frontend apps using Flutter and ReactJS
+- 👀 Have experience in developing backend using NodeJS/ExpressJS
+- 👀 Worked with databases suc as MonogoDB and postgresSQL
 - 🌱 I’m currently learning Java!
 - 📫 How to reach me : info.mkappworks@gmail.com
 
