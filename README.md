@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java and Go**
 
-- 💬 Ask me about **Flutter, Reactjs and Nodejs**
+- 💬 Ask me about **Flutter, Javascript (Reactjs,Nodejs)**
 
 - 📫 How to reach me **https://www.linkedin.com/in/malith-kuruppu-b6137b128/**
 
