@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web and mobile full stack developer</h3>
 
 
-- 🌱 I’m currently learning **.NET and Go**
+- 🌱 I’m currently learning **Java and Go**
 
 - 💬 Ask me about **Flutter, Reactjs and Nodejs**
 
